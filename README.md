@@ -1,4 +1,4 @@
 - Hi, I’m @LuizEstraviz
 - I’m interested in developing decision support systems and appling remote sensing technologies to support forest managers.
-- I’m currently learning Data Science, AI, LiDAR data processing and devolopment of NEXT.js webpages.
+- I’m currently learning Data Science, AI, LiDAR data processing and devolopment of Ruby on Rails webpages.
 - You can reach me: luiz.estraviz@gmail.com
